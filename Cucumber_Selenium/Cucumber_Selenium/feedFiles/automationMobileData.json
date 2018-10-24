@@ -1,0 +1,47 @@
+{
+	"Android_virtualdevice": {
+		"capabilities": {
+			"platformName": "Android",
+			"device": "LG-H930",
+			"app": "/Users/navjot/Documents/AEG/Automation1.0/Cucumber_Selenium/Test.apk",
+			"app_package": "com.electrolux.test",
+			"activity": "com.electrolux.test",
+			"version": "9",
+			"appiumServer": "http://localhost",
+			"port": "4799",
+			"deviceudid": "LGM70035d4ac1f",
+			"bundleid": "com.electrolux.test",
+			"appWaitActivity":"SplashActivity, SplashActivity,OtherActivity, *, *.SplashActivity"
+		}
+	},
+	"Android_REDME": {
+	"capabilities": {
+			"platformName": "Android",
+			"device": "LG-H930",
+			"app": "/Users/navjot/Documents/AEG/Automation1.0/Cucumber_Selenium/Test.apk",
+			"app_package": "com.ele",
+			"activity": "com.electrolux.test",
+			"version": "7.0.0",
+			"appiumServer": "http://127.0.0.1",
+			"port": "4792",
+			"deviceudid": "32b09cca0004",
+			"bundleid": "com.elux.electroluxlife"
+		}
+	},		
+	"IOS_iOS6": {
+		"capabilities": {
+			"platformName": "IOS",
+			"device": "AHM05",
+			"app": "/Users/navjot/Downloads/Electrolux_Life (1).ipa",
+			"app_package": "com.elux.electroluxlife",
+			"activity": "Main.elux.electroluxlife",
+			"version": "11.1",
+			"appiumServer": "http://127.0.0.1",
+			"port": "4765",
+			"deviceudid": "7846797bd0b8a819a75204b089309c5ea1336074",
+			"bundleid": "com.elux.electroluxlife",
+			"automationName":"XCUITest",
+			"reset":"false"					
+		}
+	}
+}

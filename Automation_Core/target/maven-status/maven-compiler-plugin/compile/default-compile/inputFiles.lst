@@ -1,0 +1,13 @@
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\data\DataProcessor.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\fixtures\AbstractAutomationFixtures.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\data\XLSProcessor.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\util\AutomationUtility.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\automation\ElementRepository.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\context\Configuration.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\api\AppiumDriverContext.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\data\JSONProcessor.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\fixtures\IOSAutomationFixture.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\fixtures\AndroidAutomationFixture.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\fixtures\LoginFixture.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\dto\CustomDesiredCapabilities.java
+D:\UpdateELv2\Automation1.0\Automation_Core\src\main\java\com\indecomm\dto\AutomationDTO.java
